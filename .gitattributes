@@ -1,11 +1,1 @@
-Smithy_forge_a3.tif filter=lfs diff=lfs merge=lfs -text
-Smithy_forge_n.tif filter=lfs diff=lfs merge=lfs -text
-Smithy_*.tif filter=lfs diff=lfs merge=lfs -text
-Well*.tif filter=lfs diff=lfs merge=lfs -text
-wooden_props*.tif filter=lfs diff=lfs merge=lfs -text
-Bridge filter=lfs diff=lfs merge=lfs -text
-Bridge* filter=lfs diff=lfs merge=lfs -text
-Bridge/* filter=lfs diff=lfs merge=lfs -text
-Bridge/** filter=lfs diff=lfs merge=lfs -text
-Planks*.tif filter=lfs diff=lfs merge=lfs -text
-wood*.tif filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
